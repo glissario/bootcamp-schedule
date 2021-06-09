@@ -1,5 +1,5 @@
-Christian G - glissario
-progress during the __Coding Bootcamp Europe__ - #class-2
+Christian G - glissario,
+progress during the __Coding Bootcamp Europe__ - class#2
 
 TIL:
 08.06.: 

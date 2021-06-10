@@ -10,4 +10,7 @@ TIL:
 - markdown - introduction and editing
 
 09.06.: 
+- Terminal works (so far)
+- introduction html: syntax known // importance of structuring
 
+10.06.:

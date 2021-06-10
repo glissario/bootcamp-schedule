@@ -14,3 +14,5 @@ TIL:
 - introduction html: syntax known // importance of structuring
 
 10.06.:
+- Quellcode in GutHub + Netlify
+- 

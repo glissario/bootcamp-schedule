@@ -15,4 +15,7 @@ TIL:
 
 10.06.:
 - Quellcode in GutHub + Netlify
-- 
+- structuring of text and whole document/page
+- using different source code
+
+11.06.

@@ -22,3 +22,8 @@ TIL:
 - introduction CSS + usage
 - knowledge Mac
 - insights Martin Splitt
+
+14.06.
+- Selector Combinators
+- Pseudo Elements
+-  

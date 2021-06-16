@@ -27,3 +27,9 @@ TIL:
 - Selector Combinators
 - Pseudo Elements
 -  
+15.06.
+- Kaskade und Wertigkeiten
+- Pseudo-Elemente
+- Vererbung
+- normalize und fallback
+

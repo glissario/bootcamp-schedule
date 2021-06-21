@@ -41,3 +41,8 @@ TIL:
 17.06.
 - breakdowns
 
+18.6.
+- forms
+- tech incubator
+
+

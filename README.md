@@ -47,3 +47,4 @@ TIL:
 
 21.06.
 - git
+- git mit github verknüpft + Projekte synchronisiert

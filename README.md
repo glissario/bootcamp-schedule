@@ -48,3 +48,8 @@ TIL:
 21.06.
 - git
 - git mit github verknüpft + Projekte synchronisiert
+
+22.06.
+- flex box
+- Dark mode
+- variable Farben

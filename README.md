@@ -53,3 +53,11 @@ TIL:
 - flex box
 - Dark mode
 - variable Farben
+
+23.06.
+- grid
+- transitions
+
+24.06.
+- selfimprovement: polaroid
+- todo

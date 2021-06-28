@@ -61,3 +61,10 @@ TIL:
 24.06.
 - selfimprovement: polaroid
 - todo
+
+25.06. 
+- Job day
+
+28.05.
+- start js via P5
+- functions, variables, if/else, mouse action

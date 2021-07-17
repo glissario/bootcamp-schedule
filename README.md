@@ -65,6 +65,14 @@ TIL:
 25.06. 
 - Job day
 
-28.05.
+28.06.
 - start js via P5
 - functions, variables, if/else, mouse action
+
+update 16.07.
+- introduced in Javascript:
+- syntax
+- implementing scripts in html
+- DOM
+ - Algorithm in codewars
+ - first project: Todo App

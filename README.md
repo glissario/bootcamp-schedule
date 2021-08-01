@@ -76,3 +76,11 @@ update 16.07.
 - DOM
  - Algorithm in codewars
  - first project: Todo App
+
+update 31.07.
+- developed some more features for the todo-Ap
+- some more app projects like quote app and weather App using the metaweather.com API
+- introduction in some more tooling: 
+- node and mpn
+- e2e testing via cypress, code analysis via prettier and eslint
+- implementing the tests
